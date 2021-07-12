@@ -8,6 +8,7 @@ The Data utilyzed for this project includes two spreadsheets with metrics on 12 
 
 ##Results 
 
-![alt text](https://github.com/dsaulsb1/stock-analysis/Resources/VBA_Challenge_2017.png
+![2017](VBA_Challenge_2017.png)
+![2018](VBA_Challenge_2018.png)
 
 Refractoring the code made our coding much cleaner and more organized. The efficiency was the true goal, however, and it more than exceeded expectations. The original analysis took about a second to run, while the new code took only a fourth of the time. This speaks for itself. Refactoring was an absolute success.
